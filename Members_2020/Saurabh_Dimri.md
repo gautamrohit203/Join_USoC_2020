@@ -1,4 +1,4 @@
-Name       : Saurabh Dimri
-Year       : 3rd Year
+Name       : Rohit Gautam
+Year       : 1st Year
 College    : University of Petroleum and Energy Studies 
-Tech Stack : Python, Java, MongoDB, MapReduce, Docker, WebDev (MERN stack), AWS, DevOps TOOLS, Hadoop, Ansible
+Tech Stack : Python, C++, C
